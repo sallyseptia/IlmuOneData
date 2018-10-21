@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269965362212",
+    "firebase_url": "https://ilmuonedata-59ae2.firebaseio.com",
+    "project_id": "ilmuonedata-59ae2",
+    "storage_bucket": "ilmuonedata-59ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269965362212:android:912febf60e9f5ea2",
+        "android_client_info": {
+          "package_name": "com.example.asus.ilmuonedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269965362212-emk4ak26r9u90590g6o75ru93pdduk7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.ilmuonedata",
+            "certificate_hash": "f1f850f9a479391d2a71401b3badb40a0e16561f"
+          }
+        },
+        {
+          "client_id": "269965362212-k3h6mo9icjob9h79m879pj1cvhman994.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kYUhEfs_2E3zekMbL7uNCLCpMvmv_vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269965362212-k3h6mo9icjob9h79m879pj1cvhman994.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
